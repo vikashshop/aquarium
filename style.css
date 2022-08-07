@@ -1,6 +1,15 @@
 .container
 {
-    margin-top: 30px;
+	margin-top: 30px;
+}
+.col-md-5
+{
+	margin-top: 10px;
+	margin-left: 120px;
+}
+.col-md-7
+{
+	margin-left: 120px;
 }
 .col-md-7 h2
 {
