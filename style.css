@@ -1,0 +1,21 @@
+.container
+{
+    margin-top: 150px;
+}
+.col-md-7 h2
+{
+	color: #555;
+}
+.rupees
+{
+	color: #0072ff;
+	font-size: 28px;
+	font-weight: bold;
+	padding-top: 6px;
+}
+h2 span{
+	color: #0072ff;
+	font-size: 40px;
+	font-weight: bolder;
+	font-style: italic;
+}
